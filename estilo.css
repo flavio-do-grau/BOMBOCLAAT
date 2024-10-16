@@ -1,0 +1,44 @@
+
+
+.body {
+background-color: #F000;
+font-family: 'Megadeth', sans-serif;
+color:#FFC000;
+size: 50px;
+
+
+}
+
+@font-face {
+    font-family: 'Megadeth';
+    src: url('assets/fonts/Megadeth.ttf') format('truetype'),
+         url('assets/fonts/Megadeth.woff') format('woff');
+}
+
+
+.h1 {
+font-family: 'Megadeth', sans-serif;
+font-size: 50px;
+font-weight: 50px;
+}
+
+.lista-menu {
+font-family: 'Megadeth', sans-serif;
+font-size: 50px;
+font-weight: 50px;
+color:#FFC000;
+}
+
+.pequeno{
+    width: 150px;
+    height: auto;
+    margin: 10px;
+}
+
+.Cabeçalho__menu-hamburger{
+
+    font-family: 'Megadeth', sans-serif;
+    font-size: 50px;
+    font-weight: 50px;
+    color:#FFC000;
+}
